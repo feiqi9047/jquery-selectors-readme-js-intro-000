@@ -1,2 +1,5 @@
-// declare your functions here...
-$('img')
+// declare your functions here
+
+function paragraphSelector(){
+  
+}
